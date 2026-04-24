@@ -35,8 +35,8 @@ export async function POST(request) {
         {
           is_success: true,
           user_id: "sanjidh_ali_24042004",
-          email_id: "sa6025@srmist.edu.in",
-          college_roll_number: "RA2211003011684",
+          email_id: "st5461@srmist.edu.in",
+          college_roll_number: "RA2311003020304",
           hierarchies: [],
           invalid_entries: [],
           duplicate_edges: [],
